@@ -1,0 +1,352 @@
+Test 1 (baseline: no sunlight, still air, moderate humidity):
+Location: bedroom (26.5 celsius - 65% humidity)
+Airflow: none
+Sun Exposure: none
+Dry Weight: 153g
+Wet Weight: 402g
+Weight: 249
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 13:50
+Time Intervals:
+15 min - 387g  (-15)(14:05)(63%)
+30 min - 370g  (-17)(14:20)(61%)
+45 min - 358g  (-12)(14:36)(63%)
+60 min - 348g  (-10)(14:51)(64%)
+75 min - 338g  (-10)(15:07)(61%)
+90 min - 329g  (-9) (15:22)(61%)
+105 min - 320g (-9) (15:37)(63%)
+120 min - 310g (-10)(15:52)(64%)
+150 min - 288g (-22)(16:23)(61%)
+180 min - 270g (-18)(16:53)(62%)
+210 min - 249g (-21)(17:23)(59%)
+240 min - 229g (-20)(17:54)(58%)
+
+
+
+Test 2a:(sunlight, airflow and low humidity)
+Location: patio (30 celsius - started at 45% humidity, increased to 55% gradually)
+Airflow: moderate (outside)
+Sun Exposure: moderate
+Dry Weight: 153g
+Wet Weight: 400g
+Water Amount: 247g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 14:35
+Time Intervals:
+15 min - 353g (-47)(14:52)(45%)
+30 min - 314g (-39)(15:07)(50%)
+45 min - 274g (-40)(15:22)(52%)
+60 min - 231g (-43)(15:38)(52%)
+75 min - 194g (-37)(15:54)(53%)
+90 min - 170g (-24)(16:10)(52%)
+105 min - 159g (-11)(16:25)(53%)
+
+
+
+Test 3a(no sunlight, high airflow, moderate humidity):
+Location: bedroom (25.5 celsius - 71% humidity)
+Airflow: high (with fan speed 1)
+Sun Exposure: none
+Dry Weight: 152g
+Wet Weight: 372g
+Water Amount: 220g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 13:33
+Time Intervals:
+15 min - 340g (-32)(13:48)(70%)
+30 min - 312g (-28)(14:03)(72%)
+45 min - 282g (-30)(14:19)(73%)
+60 min - 252g (-30)(14:35)(72%)
+75 min - 228g (-24)(14:49)(71%)
+90 min - 205g (-23)(15:04)(70%)(electricity went out)
+
+
+
+Test 4b(no sunlight, high airflow, high humidity):
+Location: bathroom (26 celsius - started at 98% humidity, decreased to around 94% after 75 minutes)
+Airflow: high (with fan speed 1)
+Sun Exposure: none
+Dry Weight: 164g
+Wet Weight: 414g
+Water Amount: 250g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 13:55
+Time Intervals:
+15 min - 402g  (-12)(14:10)(99%)
+30 min - 392g  (-10)(14:25)(97%)
+45 min - 383g  (-9) (14:41)(98%)
+60 min - 374g  (-9) (14:57)(97%)
+75 min - 364g  (-10)(15:13)(96%) 
+90 min - 352g  (-12)(15:29)(95%)
+105 min - 338g (-14)(15:45)(92%)
+120 min - 325g (-13)(16:00)(92%)
+
+
+Test 5a(no sunlight, still air, lower humidity):
+Location: bedroom (AC on, lower temps(19-20 celsius), 50% humidity gradually increased to 52% around 1 hour)
+Airflow: low
+Sun Exposure: none
+Dry Weight: 153g
+Wet Weight: 393g
+Water Amount: 240g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 15:00
+Time Intervals:
+15 min - 378g (-15) (15:16)(52%)
+30 min - 365g (-13) (15:32)(51%)
+45 min - 352g (-13) (15:47)(53%)
+60 min - 337g (-15) (16:03)(52%)
+75 min - 325g (-12) (16:18)(54%)
+90 min - 312g (-13) (16:34)(55%)
+105 min - 299g (-13)(16:49)(53%)
+120 min - 286g (-13)(17:05)(52%)
+135 min - 274g (-12)(17:20)(52%)
+
+
+
+Test 4a(no sunlight, still air, high humidity):
+Location: bathroom (25.5 celsius, 100% humidity)
+Airflow: still 
+Sun Exposure: none
+Dry Weight: 154g
+Wet Weight: 404g
+Water Amount: 250g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 14:53
+Time Intervals:
+15 min - 395g  (-9)(15:08)(100%)
+30 min - 387g  (-8)(15:24)(99%)
+45 min - 379g  (-8)(15:39)(99%)
+60 min - 373g  (-6)(15:55)(100%)
+75 min - 369g  (-4)(16:10)(99%)
+90 min - 366g  (-3)(16:26)(97%)
+105 min - 363g (-3)(16:41)(99%)
+120 min - 362g (-1)(16:57)(100%)
+
+
+
+Test 2b:(no sunlight, no airflow, low humidity)
+Location: patio (29 celsius - avg 48% humidity)
+Airflow: still
+Sun Exposure: none
+Dry Weight: 153g
+Wet Weight: 408g
+Water Amount: 255g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 14:52
+Time Intervals:
+15 min - 377g  (-31)(15:08)(50%)
+30 min - 352g  (-25)(15:23)(47%)
+45 min - 327g  (-25)(15:39)(46%)
+60 min - 301g  (-26)(15:54)(48%)
+75 min - 277g  (-24)(16:10)(48%)
+90 min - 254g  (-23)(16:25)(46%)
+105 min - 230g (-24)(16:41)(45%)
+120 min - 211g (-19)(16:56)(48%)
+135 min - 194g (-17)(17:12)(48%)
+150 min - 179g (-15)(17:27)(49%)
+
+
+
+Test 3b(no sunlight, no airflow, moderate humidity):
+Location: bedroom (24.5 celsius - 66% humidity)
+Airflow: still
+Sun Exposure: none
+Dry Weight: 153g
+Wet Weight: 393g
+Water Amount: 240g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 18:16
+Time Intervals:
+15 min - 382g (-11)(18:32)(66%)
+30 min - 372g (-10)(18:47)(67%)
+45 min - 364g (-8) (19:02)(67%)
+60 min - 356g (-8) (19:18)(68%)
+75 min - 348g (-8) (19:33)(68%)
+90 min - 341g (-7) (19:49)(68%)
+105 min- 333g (-8) (20:04)(68%)
+120 min- 326g (-7) (20:20)(68%)
+135 min- 318g (-8) (20:35)(67%)
+
+
+
+Test 3a2(no sunlight, high airflow, moderate humidity):
+Location: bedroom (25 celsius - 64% humidity)
+Airflow: high
+Sun Exposure: none
+Dry Weight: 152g
+Wet Weight: 390g
+Water Amount: 238g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 18:09
+Time Intervals:
+15 min - 354g (-36)(18:24)(62%)
+30 min - 321g (-33)(18:40)(63%)
+45 min - 287g (-34)(18:55)(64%)
+60 min - 255g (-32)(19:11)(65%)
+75 min - 223g (-32)(19:26)(65%)
+90 min - 196g (-27)(19:42)(65%)
+105 min- 176g (-20)(19:58)(65%)
+120 min- 165g (-11)(20:14)(65%)
+
+
+
+Test 2c:(no sunlight, moderate airflow and moderate humidity)
+Location: patio (24 celsius - started at 62% humidity)
+Airflow: moderate (outside)
+Sun Exposure: none
+Dry Weight: 152g
+Wet Weight: 401g
+Water Amount: 249g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 16:30
+Time Intervals:
+15 min - 378g (-23)(16:45)(63%)
+30 min - 361g (-17)(17:01)(63%)
+45 min - 345g (-16)(17:16)(64%)
+60 min - 327g (-18)(17:32)(64%)
+75 min - 312g (-15)(17:48)(66%)
+90 min - 297g (-15)(18:04)(67%)
+105 min- 284g (-13)(18:19)(69%)
+120 min- 273g (-11)(18:35)(72%)
+135 min- 263g (-10)(18:50)(74%)
+150 min- 253g (-10)(19:06)(74%)
+
+
+
+Test 2d:(sunlight, moderate airflow and moderate humidity)
+Location: patio
+Airflow: moderate (outside)
+Sun Exposure:
+Dry Weight: 151g
+Wet Weight: 397g
+Water Amount: 246g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 16:40
+Time Intervals:
+15 min - 354g (-43)(16:55)(56%)
+30 min - 325g (-29)(17:10)(58%)
+45 min - 300g (-25)(17:26)(60%)
+60 min - 276g (-24)(17:42)(62%)
+75 min - 255g (-21)(17:59)(63%)
+90 min - 237g (-18)(18:13)(64%)
+105 min- 221g (-16)(18:29)(65%)
+120 min- 208g (-13)(18:44)(66%)
+
+
+
+Test 2d2:(high sunlight, none, moderate humidity)
+Location: patio
+Airflow: none
+Sun Exposure:high
+Dry Weight: 154g
+Wet Weight: 390g
+Water Amount: 236g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 16:50
+Time Intervals:
+15 min - 366g (-24)(17:05)(63%)
+30 min - 345g (-21)(17:21)(63%)
+45 min - 327g (-18)(17:36)(62%)
+60 min - 312g (-15)(17:51)(64%)
+75 min - 297g (-15)(18:07)(65%)
+90 min - 285g (-12)(18:23)(67%)(sun = low)
+105 min- 275g (-10)(18:39)(69%)
+120 min- 268g (-7)(18:56)(70%)
+
+
+
+Test 3a3(no sunlight, high airflow, moderate humidity):
+Location: bedroom (23 celsius - 66% humidity)
+Airflow: high
+Sun Exposure: none
+Dry Weight: 153g
+Wet Weight: 394g
+Water Amount: 241g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 18:18
+Time Intervals:
+15 min - 361g (-33)(18:33)(67%)
+30 min - 331g (-30)(18:49)(67%)
+45 min - 301g (-30)(19:05)(67%)
+60 min - 270g (-31)(19:21)(68%)
+75 min - 241g (-29)(19:37)(69%)
+90 min - 217g (-24)(19:52)(69%)
+105 min- 196g (-21)(20:08)(69%)
+120 min- 176g (-20)(20:23)(69%)
+135 min- 165g (-11)(20:39)(69%)
+
+
+
+Test 3b2(no sunlight, no airflow, moderate humidity):
+Location: bedroom (23.5 celsius - 62% humidity)
+Airflow: none
+Sun Exposure: none
+Dry Weight: 152g
+Wet Weight: 397g
+Water Amount: 245g
+Cloth Type: 100% cotton
+Hanged: Flat
+
+Start Time: 16:09
+Time Intervals:
+15 min - 384g (-13)(16:24)(61%)(23,5)
+30 min - 372g (-12)(16:39)(62%)(24) 
+45 min - 362g (-10)(16:55)(62%)(24)
+60 min - 352g (-10)(17:10)(59%)
+75 min - 343g (-9) (17:26)(58%)
+90 min - 333g (-10)(17:42)(57%)
+105 min- 324g (-9)(17:57)(56%)
+120 min- 313g (-11)(18:15)(%56)
+
+
+
+Test CP(no sunlight, no airflow, moderate humidity):
+Location: bedroom (23.5 celsius - 62% humidity)
+Airflow: high
+Sun Exposure: none
+Dry Weight: 221g
+Wet Weight: 485g
+Water Amount: 264g
+Cloth Type: 60% cotton 40% polyester
+Hanged: Flat
+
+
+Start Time: 15:02
+Time Intervals:
+15 min - 448g (-37)(15:17)(23,5)(59%)
+30 min - 415g (-33)(15:33)(23,5)(58%) 
+45 min - 383g (-32)(15:48)(23,5)(57%)
+60 min - 350g (-33)(16:04)(23,5)(57%)
+75 min - 317g (-33)(16:20)(23)  (58%)
+90 min - 284g (-33)(16:35)(23)  (58%)
+105 min- 257g (-27)(16:51)(23,5)(58%)
+120 min- 242g (-15)(17:07)(23,5)(56%)
+135 min- 233g (-9) (17:23)(23,5)(56%)
+
